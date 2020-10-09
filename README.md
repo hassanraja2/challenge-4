@@ -1,6 +1,6 @@
 # challenge-4
 
-<h2 What was the challenge? </h2>
+<h2> What was the challenge? </h2>
 
 The challenege was to use a playbook which install docker onto the local machine. This was more of how to install docker manullay by using the step-by step method and installing all the required dependencies. 
 
